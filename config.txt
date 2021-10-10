@@ -1,0 +1,4 @@
+title=SolScam
+description=SolScam
+h1=SolScam
+address=2xKVBCjQRmBpwVYn462G8nUrfVyPEuRUPaWtSNaVSrUd
